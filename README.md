@@ -124,6 +124,12 @@ End-to-end design process — research, wireframes, and high-fidelity prototypes
 
 ---
 
+## 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Divyaravi1697&theme=algolia&no-frame=true&row=1&column=6" />
+</div>
+
 ---
 
 ## 🐍 Contribution Animation
@@ -131,8 +137,6 @@ End-to-end design process — research, wireframes, and high-fidelity prototypes
 <div align="center">
 <img src="https://raw.githubusercontent.com/Divyaravi1697/Divyaravi1697/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 </div>
-
-> ⚠️ **Setup needed (one-time, 5 min):** this animation only appears after you add a small GitHub Action. Steps are in the note below the footer.
 
 ---
 
