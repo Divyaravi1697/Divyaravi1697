@@ -107,38 +107,10 @@ End-to-end design process — research, wireframes, and high-fidelity prototypes
 </tr>
 </table>
 
-> 📌 *Pinning your best 4–6 repos on your profile makes this section even stronger.*
+
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Divyaravi1697&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyaravi1697&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Divyaravi1697&theme=tokyonight&hide_border=true" width="60%" />
-</div>
-
----
-
-## 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Divyaravi1697&theme=algolia&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-## 🐍 Contribution Animation
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Divyaravi1697/Divyaravi1697/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
-</div>
-
----
 
 <div align="center">
 
