@@ -124,12 +124,6 @@ End-to-end design process — research, wireframes, and high-fidelity prototypes
 
 ---
 
-## 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Divyaravi1697&theme=algolia&no-frame=true&row=1&column=6" />
-</div>
-
 ---
 
 ## 🐍 Contribution Animation
