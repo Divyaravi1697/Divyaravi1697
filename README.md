@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Divya+Ravi;UI%2FUX+Designer;Frontend+Developer;MERN+Stack+Developer;Creating+Modern+Digital+Experiences" />
