@@ -1,141 +1,87 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Divya+Ravi;UI%2FUX+Designer;Frontend+Developer;MERN+Stack+Developer;Creating+Modern+Digital+Experiences" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Divyaravi1697&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
-
-# Divya Ravi
-
-### UI/UX Designer • Frontend Developer • MERN Stack Developer
-
-Designing intuitive user experiences and building scalable web applications with modern technologies.
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=Divya%20Ravi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=UI/UX%20Designer%20%7C%20Frontend%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Designing+intuitive+interfaces+%F0%9F%8E%A8;Building+scalable+web+apps+%F0%9F%92%BB;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+### Turning ideas into clean interfaces and interfaces into working products.
+ 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=for-the-badge)](https://divyaravi.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-ravi-r-r)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/divyaravi1697)
+ 
+![Open to Work](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-success?style=for-the-badge&logo=greenhouse&logoColor=white)
+ 
 </div>
-
 ---
-
-# 👩‍💻 About Me
-
-- 🎨 UI/UX Designer with a passion for clean and user-friendly interfaces.
-- 💻 Frontend Developer specializing in React & TypeScript.
-- 🚀 Currently building full-stack applications using the MERN Stack.
-- 🌱 Continuously learning modern web technologies and best practices.
-
+ 
+## 👩‍💻 About Me
+ 
+I'm a **UI/UX Designer turned Frontend / MERN Stack Developer** — I design in Figma and build it in React, so nothing gets lost between the mockup and the shipped product.
+ 
+- 🎨 Design interfaces that are clean, accessible, and user-first
+- 💻 Build responsive, production-ready UIs with **React & TypeScript**
+- 🛠️ Ship full-stack features end-to-end with **Node.js, Express & MongoDB**
+- 📌 Currently **actively looking for Frontend / UI-UX / MERN Stack Developer roles**
+- 🤝 Open to full-time opportunities, freelance, and collaborations
+> 💬 **Recruiters/Hiring Managers:** feel free to reach out via [LinkedIn](https://www.linkedin.com/in/divya-ravi-r-r) — I usually reply within a day.
+ 
 ---
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://divyaravi.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/divya-ravi-r-r">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.behance.net/divyaravi1697">
-<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-</a>
-
-</p>
-
+ 
+## 🧰 Tech Stack
+ 
+**Languages & Core**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+ 
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+ 
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+ 
+**Design & Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+ 
 ---
+ 
+## 🚀 Featured Projects
+ 
+### 🏢 [Employee Management System](https://github.com/Divyaravi1697)
+`React` `Node.js` `Express` `MongoDB` `JWT Auth`
+Full-stack app with secure authentication and role-based employee data management.
+ 
+### 🌐 [Zepra – Digital Marketing Website](https://github.com/Divyaravi1697)
+`React` `Responsive Design`
+A modern, fully responsive business website built for a digital marketing brand.
+ 
+### 💼 [Personal Portfolio](https://divyaravi.netlify.app)
+`React` `UI/UX`
+Live portfolio showcasing frontend builds and design case studies.
+ 
+### 🎨 [UI/UX Case Studies](https://www.behance.net/divyaravi1697)
+`Figma` `Wireframing` `Prototyping`
+End-to-end design process — research, wireframes, and high-fidelity prototypes.
+ 
+> 📌 *Pinning your best 4–6 repos on your profile makes this section even stronger for recruiters.*
+ 
 
-# ⚙️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,bootstrap,vite,git,github,figma,photoshop,canva,vscode&perline=10"/>
-
-</p>
-
----
-
-# 🧰 Tools & Platforms
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🏢 Employee Management System
-React • Node.js • Express • MongoDB • JWT Authentication
-
-### 🌐 Zepra Digital Marketing Website
-Modern responsive business website.
-
-### 💼 Personal Portfolio
-Showcasing UI/UX and Frontend projects.
-
-### 🎨 UI/UX Case Studies
-Wireframes, prototypes and high-fidelity designs.
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Divyaravi1697&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyaravi1697&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Divyaravi1697&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyaravi1697&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Divyaravi1697&theme=algolia&no-frame=true&column=4"/>
-
-</p>
-
----
-
+ 
 <div align="center">
-
-### 💙 Thanks for visiting my profile!
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer" width="100%" />
+### 💌 Let's build something great together
+ 
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-3B82F6?style=for-the-badge)](https://divyaravi.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-ravi-r-r)
+ 
 *"Great products begin with thoughtful design and quality code."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:1E3A8A,100:60A5FA&section=footer"/>
-
+ 
 </div>
-```
